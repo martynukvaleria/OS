@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\HP\source\repos\Vector\Vector\Vector.h(29,10): warning C4251: vector::Vector::a_: class "number::Number" должен иметь dll-интерфейс для использования клиентами class "vector::Vector"
+C:\Users\HP\source\repos\StaticNumber\Number\Number.h(6): message : см. объявление "number::Number"
+C:\Users\HP\source\repos\Vector\Vector\Vector.h(30,10): warning C4251: vector::Vector::b_: class "number::Number" должен иметь dll-интерфейс для использования клиентами class "vector::Vector"
+C:\Users\HP\source\repos\StaticNumber\Number\Number.h(6): message : см. объявление "number::Number"
+C:\Users\HP\source\repos\Vector\Vector\Vector.h(33,37): error C2734: vector::zero_vector: объект const необходимо инициализировать, если он не внешний
+C:\Users\HP\source\repos\Vector\Vector\Vector.h(34,36): error C2734: vector::one_vector: объект const необходимо инициализировать, если он не внешний
