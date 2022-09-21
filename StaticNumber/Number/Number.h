@@ -9,7 +9,7 @@ namespace number
 
         Number(double value);
 
-        Number(const Number& Number_) = default;
+        Number(const Number& Number_);
 
         const Number Add(const Number& Number_);
 
