@@ -1,0 +1,3 @@
+/home/martynuk/CLionProjects/Vector/cmake-build-debug/CMakeFiles/Vector.dir
+/home/martynuk/CLionProjects/Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/martynuk/CLionProjects/Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
