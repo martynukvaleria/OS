@@ -24,8 +24,6 @@ namespace number {
 
         Number atan() const;
 
-        double GetValue() const;
-
         explicit operator double() const;
 
     private:

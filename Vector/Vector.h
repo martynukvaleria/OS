@@ -11,6 +11,8 @@ namespace vector {
 
         Vector(const Number& a, const Number& b);
 
+        Vector(double a, double b);
+
         Vector(const Vector &) = default;
 
         Number Radius() const;

@@ -8,6 +8,8 @@ namespace vector {
 
     Vector::Vector(const Number& a, const Number& b) : a_(a), b_(b) {}
 
+    Vector::Vector(double a, double b) : a_(Number(a)), b_(Number (b)) {}
+
     number::Number Vector::Radius() const {
         Number z = a_.Multiply(a_).Add(b_.Multiply(b_));
         return z.sqrt();
