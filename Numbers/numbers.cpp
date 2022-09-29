@@ -36,10 +36,6 @@ namespace number {
         return value_;
     }
 
-    double Number::GetValue() const {
-        return value_;
-    }
-
     Number GetNum(double value) {
         return {value};
     }

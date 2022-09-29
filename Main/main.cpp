@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Vector.h"
+#include "../Vector/Vector.h"
 
 int main() {
     number::Number a = number::GetNum(1);
