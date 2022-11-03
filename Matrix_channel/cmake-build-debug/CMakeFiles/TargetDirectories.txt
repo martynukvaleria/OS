@@ -1,0 +1,3 @@
+/home/martynuk/CLionProjects/Matrix_channel/cmake-build-debug/CMakeFiles/Matrix_channel.dir
+/home/martynuk/CLionProjects/Matrix_channel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/martynuk/CLionProjects/Matrix_channel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

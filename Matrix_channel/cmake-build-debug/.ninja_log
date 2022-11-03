@@ -1,0 +1,6 @@
+# ninja log v5
+0	16	1666821041171395635	build.ninja	293690dbe37be506
+0	320	1666821041495327871	CMakeFiles/Matrix_channel.dir/buffered_channel.cpp.o	32cb8d458c1280b5
+0	556	1666821041731278513	CMakeFiles/Matrix_channel.dir/main.cpp.o	9e4c3742bf61168f
+3	584	1666853783029412405	CMakeFiles/Matrix_channel.dir/buffered_channel.cpp.o	32cb8d458c1280b5
+1	935	1666853783381391069	CMakeFiles/Matrix_channel.dir/main.cpp.o	9e4c3742bf61168f
