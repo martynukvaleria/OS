@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/HP/CLionProjects/Process/killer.cpp
+windows.h
+-
+Tlhelp32.h
+-
+winbase.h
+-
+cstring
+-
+string
+-
+locale
+-
+codecvt
+-
+
