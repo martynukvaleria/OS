@@ -1,0 +1,3 @@
+/home/martynuk/CLionProjects/Killer/cmake-build-debug/CMakeFiles/Killer.dir
+/home/martynuk/CLionProjects/Killer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/martynuk/CLionProjects/Killer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
