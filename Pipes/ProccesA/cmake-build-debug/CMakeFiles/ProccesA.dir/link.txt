@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ProccesA.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\ProccesA.dir/objects.a @CMakeFiles\ProccesA.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ProccesA.dir/objects.a -Wl,--no-whole-archive -o ProccesA.exe -Wl,--out-implib,libProccesA.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProccesA.dir\linklibs.rsp

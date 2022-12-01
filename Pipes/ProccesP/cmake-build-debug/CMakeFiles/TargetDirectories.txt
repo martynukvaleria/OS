@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/ProccesP/cmake-build-debug/CMakeFiles/ProccesP.dir
+C:/Users/HP/CLionProjects/ProccesP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/ProccesP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
